@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  modules: ['@nuxtjs/tailwindcss'],
+  modules: ["@nuxtjs/tailwindcss"],
 
   tailwindcss: {
     exposeConfig: true,
@@ -8,5 +8,5 @@ export default defineNuxtConfig({
     // and more...
   },
 
-  compatibilityDate: '2025-01-16'
-})
+  compatibilityDate: "2025-01-16",
+});
