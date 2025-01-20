@@ -145,7 +145,7 @@
 
   <Seconds class="relative bg-white">
     <!-- Image Grid -->
-    <div class="grid grid-cols-4 gap-0 md:gap-2">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-0">
       <!-- Individual Panels -->
       <div
         class="h-[400px] md:h-[600px] bg-blue-500 flex items-center justify-center"
@@ -195,8 +195,10 @@
   </Seconds>
 
   <div
-    class="bg-gradient-to-r from-blue-400 to-blue-500 p-6 flex justify-center items-center"
+    class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center"
   >
+    <img src="/image/cards.png" alt="EYS-Kids" class="h-66 rounded-lg" />
+
     <div
       class="bg-white rounded-lg shadow-lg p-6 w-full max-w-4xl text-center md:text-left relative"
     >
